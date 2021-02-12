@@ -1,2 +1,2 @@
 # learn_pytorch
-record the road of studying pytorch
+This project is to record the road of studying pytorch
